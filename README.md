@@ -22,14 +22,13 @@
 | Date Range                      | Goal                                                                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | **Oct 1, 2024 – Oct 15, 2024**  | Learn Python syntax and usage for data analysis.                                                                                        |
-| **Oct 16, 2024 – Nov 25, 2024** | Complete undergraduate course assignments; study analysis, machine learning, and find reference codes in spare time.                    |
-| **Nov 26, 2024 – Nov 30, 2024** | Study the `Example Data` reference code line by line with annotations.                                                                 |
-| **Dec 1, 2024 – Dec 10, 2024**  | Analyze `Example Data` from scratch in my own way.                                                                                     |
-| **Dec 11, 2024 – Dec 20, 2024** | `Other Data 1`: Analyze independently; review other analysis codes; search for data of personal interest.                               |
-| **Dec 21, 2024 – Dec 31, 2024** | `Other Data 2`: Analyze independently; review other analysis codes; search for data of personal interest.                               |
-| **Jan 1, 2025 – Jan 10, 2025**  | Analyze personally selected data and draw conclusions.                                                                                 |
-| **Jan 11, 2025 – Jan 20, 2025** | Plan and conceptualize a service based on the analyzed data.                                                                           |
-| **Jan 21, 2025 – Feb 21, 2025** | Develop the MVP.                                                                                                                       |
+| **Oct 16, 2024 – Dec 20, 2024** | Complete undergraduate course assignments; study analysis, machine learning, and find reference codes in spare time.                    |
+| **Nov 10, 2024 – Dec 30, 2024** | Study the `Bicycle Data` reference code line by line with annotations. (For Study)                                                              |
+| **Jan 2, 2025 – Jan 8, 2025** | `Other Data 1`: Analyze independently; review other analysis codes; search for data of personal interest. (Weekly)                          |
+| **Jan 9, 2025 – Jan 15, 2025** | `Other Data 2`: Analyze independently; review other analysis codes; search for data of personal interest.(Weekly)                              |
+| **Jan 15, 2025 – Feb 1, 2025**  | Analyze personally selected data and draw conclusions.                                                                                 |
+| **Feb 2, 2025 – Feb 15, 2025** | Plan and conceptualize a service based on the analyzed data.                                                                           |
+| **Feb 16, 2025 – Feb 21, 2025** | Develop the MVP.                                                                                                                       |
 
 ## Anticipated Challenges
 
@@ -46,9 +45,9 @@
 
 | Example                              | URL                                                                               | Purpose          | My Analysis Code                             |
 |--------------------------------------|-----------------------------------------------------------------------------------|------------------|----------------------------------------------|
-| **Bicycle Demand Prediction Problem** | [Link](https://www.kaggle.com/competitions/bike-sharing-demand)                   | `Example Code`   | In Progress (URL to be added upon completion) |
-| **To Be Decided**                    | TBD                                                                               | `Other Data 1`   | Not Started (URL to be added upon completion) |
-| **To Be Decided**                    | TBD                                                                               | `Other Data 2`   | Not Started (URL to be added upon completion) |
+| **Bicycle Demand Prediction Problem** | [Link](https://www.kaggle.com/competitions/bike-sharing-demand)                   | `For Study`   | In Progress (URL to be added upon completion) |
+| **To Be Decided**                    | TBD                                                                               | `Weekly 1`   | Not Started (URL to be added upon completion) |
+| **To Be Decided**                    | TBD                                                                               | `Weekly 2`   | Not Started (URL to be added upon completion) |
 
 ---
 
